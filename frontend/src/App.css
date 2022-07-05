@@ -1,0 +1,10 @@
+.add_btn{
+  text-align: right;
+}
+.global-container{
+  width: 700px;
+}
+
+.errors{
+  color: red;
+}
